@@ -85,6 +85,17 @@ repository: lvxiaoxin/lvxiaoxin.github.io
 # support provider: disqus, gitment, gitalk
 comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
+# !!!Important!!! Please modify infos below to yours
+# https://disqus.com
+disqus:
+    username: 
+# https://imsun.net/posts/gitment-introduction/
+gitment:
+    owner: 
+    repo: blog-comments
+    oauth:
+        client_id: 
+        client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lvxiaoxin
