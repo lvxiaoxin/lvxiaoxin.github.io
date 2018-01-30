@@ -100,8 +100,8 @@ gitment:
 gitalk:
     owner: lvxiaoxin
     repo: blog-comments
-    clientID: 82c7f0cabb3491bb25e5
-    clientSecret: 50abd847d4ad2c9a82c01d1f181297c2b37e0caa
+    clientID: 1063462beefc4bc2933e
+    clientSecret: c86695e36fa69689e545d21ab2e854f48daa59a7
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
