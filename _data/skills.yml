@@ -1,0 +1,17 @@
+- name: Computer Science Keywords
+  keywords:
+      - C/C++
+      - Python
+      - SQL
+      - Shell
+      - Machine Learning
+
+- name: Web Developer Keywords
+  keywords:
+      - HTML/CSS/JavaScript
+      - PHP/Python
+
+- name: Mobile Developer Keywords
+  keywords:
+      - Swift
+      - Java
