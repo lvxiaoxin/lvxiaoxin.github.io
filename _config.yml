@@ -83,7 +83,7 @@ repository: lvxiaoxin/lvxiaoxin.github.io
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+comments_provider: gitment
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
@@ -91,11 +91,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 
-    repo: blog-comments
+    owner: XinLyu
+    repo: Blog-comments
     oauth:
-        client_id: 
-        client_secret: 
+        client_id: 3cf755e0d5030fbff18f
+        client_secret: 484dfcaf4414f7ec32c3948efdeae2685cf126ed
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lvxiaoxin
