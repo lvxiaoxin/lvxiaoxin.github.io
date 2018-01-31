@@ -100,7 +100,7 @@ gitment:
 gitalk:
     owner: lvxiaoxin
     admin: lvxiaoxin
-    repo: lvxiaoxin.github.io
+    repo: Blog_comments
     clientID: d668835c304f53fbbf3b
     clientSecret: 6a03fd00ddc5eebd8d639ec5655332e7edcf77cc
 # 在使用其它评论组件时可点击显示 Disqus
