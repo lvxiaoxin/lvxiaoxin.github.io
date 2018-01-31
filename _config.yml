@@ -91,11 +91,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: XinLyu
+    owner: lvxiaoxin
     repo: Blog-comments
     oauth:
-        client_id: 3cf755e0d5030fbff18f
-        client_secret: 484dfcaf4414f7ec32c3948efdeae2685cf126ed
+        client_id: a4057751fcf88c90c0ce
+        client_secret: f6e583816e65257e0de67c2d200553d9850d1fa3
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lvxiaoxin
