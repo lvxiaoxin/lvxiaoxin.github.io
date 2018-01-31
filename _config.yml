@@ -99,6 +99,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lvxiaoxin
+    admin: lvxiaoxin
     repo: lvxiaoxin.github.io
     clientID: d668835c304f53fbbf3b
     clientSecret: 6a03fd00ddc5eebd8d639ec5655332e7edcf77cc
