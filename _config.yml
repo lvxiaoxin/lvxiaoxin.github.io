@@ -99,9 +99,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lvxiaoxin
-    repo: blog-comments
-    clientID: 6ac234f6c0f2d5e12300
-    clientSecret: 6591aaab304c8aed945601688216b527134c3cf0
+    repo: lvxiaoxin.github.io
+    clientID: d668835c304f53fbbf3b
+    clientSecret: 6a03fd00ddc5eebd8d639ec5655332e7edcf77cc
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
