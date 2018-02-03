@@ -17,3 +17,5 @@ permalink: /wiki/
 {% endif %}
 {% endfor %}
 </ul>
+
+Note: 以上由[Zhuang Ma](https://github.com/mzlogin)整理。
