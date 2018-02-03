@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 如何刷题
+title: 程序猿的自我修养与提高——如何刷题
 categories: 刷题 
 description: 本文摘自一亩三分地，谨以此激励自己，不断前行
 keywords: LeetCode Job 刷题
 ---
 
 ## Note
-
 本文摘自一亩三分地刷题板块公告，谨以此激励自己，不断前行。
 
 ## 如何刷题
