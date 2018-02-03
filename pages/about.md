@@ -12,7 +12,7 @@ I'm Xin Lyu, a student majoring in Computer Science at Beijing Normal University
 
 I admire all miracles made by science.
 
-I look forward to using my technology to change the world.
+I look forward to using my hands and technology to change the world.
 
 ## Contact
 
