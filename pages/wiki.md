@@ -9,6 +9,7 @@ permalink: /wiki/
 ---
 
 > 记多少命令和快捷键会让脑袋爆炸呢？
+> Note: 以下由[Zhuang Ma](https://github.com/mzlogin)整理。
 
 <ul class="listing">
 {% for wiki in site.wiki %}
@@ -18,4 +19,3 @@ permalink: /wiki/
 {% endfor %}
 </ul>
 
-Note: 以上由[Zhuang Ma](https://github.com/mzlogin)整理。
