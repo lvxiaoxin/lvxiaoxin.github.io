@@ -7,7 +7,7 @@ keywords: Language English_Study Chinese Graduate_Apply
 ---
 
 ## Description
-It is first time to sing a song to others. Best love for my girlfriend.
+It is the first time for me to sing a song to others. Best love for my girlfriend.
 
 ## Link
 You can find it here.
