@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Song to My Girlfriend 
-categories: Language
+categories: Life
 description: It is first time to sing a song to others. Best love for my girlfriend.
 keywords: Language English_Study Chinese Graduate_Apply
 ---
