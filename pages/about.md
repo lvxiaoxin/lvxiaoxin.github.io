@@ -14,6 +14,11 @@ I admire all miracles made by science.
 
 I look forward to using my hands and technology to change the world.
 
+You can find my CV here.
+
+[CV](https://github.com/lvxiaoxin/My-CV/blob/master/CV.pdf)
+
+
 ## Contact
 
 {% for website in site.data.social %}
