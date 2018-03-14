@@ -16,7 +16,7 @@ I look forward to using my hands and technology to change the world.
 
 You can find my CV here.
 
-[CV](https://github.com/lvxiaoxin/My-CV/blob/master/CV.pdf)
+[CV](https://raw.githubusercontent.com/lvxiaoxin/My-CV/effb8e958572c2c320d1651ff1b9975c70c3a531/CV.pdf)
 
 
 ## Contact
