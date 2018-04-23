@@ -21,24 +21,33 @@ Good morning，或是自食其力却差点烧掉厨房的难忘经历…… …�
 
 ### 我的背景条件
 
-   学校：北京师范大学(985/211, QS8th in China), Major GPA 3.59
-   标化：TOEFL 101（R 27, L 26, S 22, W 26)
-        GRE 149(V) + 169(Q) + 3(AW)
-   科研：美国德克萨斯大学奥斯汀分校暑期科研实习，静态分析
+    学校：北京师范大学(985/211, QS8th in China), Major GPA 3.59
+   
+    标化：TOEFL 101（R 27, L 26, S 22, W 26) |
+    
+         GRE 149(V) + 169(Q) + 3(AW)
+        
+    科研：美国德克萨斯大学奥斯汀分校暑期科研实习，静态分析 |
+    
         北京大学计算机科学与技术研究所半年实习，图数据库引擎
-   实习：Red Hat，做Linux虚拟化开发和测试（申请季后才开始，只有少数学校用上了这段工业界实习）
+        
+    实习：Red Hat，做Linux虚拟化开发和测试（申请季后才开始，只有少数学校用上了这段工业界实习）
 
 ### 申请结果
 
-   Ad：New York University(小奖）
-   Rej：CMU-Software Engineering, CMU-INI, UT Austin, 
+    Ad：New York University(小奖）
+    
+    Rej：CMU-Software Engineering, CMU-INI, UT Austin, 
+    
         UCSD, GaTech, Cornell, Columbia, Duke，
+        
         UMich, U Wisconsin–Madison, UIUC
-   WL: USC, Northwestern
+        
+    WL: USC, Northwestern
     
-   +
+    +
     
-   Red Hat全职Offer
+    Red Hat全职Offer
 
 ### 评价
     
