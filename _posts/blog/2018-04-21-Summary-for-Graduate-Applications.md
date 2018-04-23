@@ -39,21 +39,22 @@ Good morning，或是自食其力却差点烧掉厨房的难忘经历…… …�
 
 ### 申请结果
 
-    Ad：New York University(小奖)
+   Ad：New York University(小奖)
   
-    Rej：CMU-Software Engineering, CMU-INI, 
+   Rej：CMU-Software Engineering, CMU-INI, 
     
-         UT Austin, UCSD, GaTech, 
+   UT Austin, UCSD, GaTech, 
          
-         Cornell, Columbia, Duke，
+   Cornell, Columbia, Duke，
         
-         UMich, U Wisconsin–Madison, UIUC
+   UMich, U Wisconsin–Madison, UIUC
         
-    WL: USC, Northwestern
+   WL: USC, Northwestern
     
-    此外：
+   此外：
     
-    Ad: Red Hat全职Offer
+   Ad: Red Hat全职Offer
+    
 
 ### 评价
     
