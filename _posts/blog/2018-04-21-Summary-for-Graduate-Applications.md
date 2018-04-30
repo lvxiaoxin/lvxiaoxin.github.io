@@ -45,7 +45,10 @@ keywords: 留学 工作 申请
    Red Hat（全球最大开源技术公司，Red Hat Enterprise Linux/OpenStack等开发商），做Linux虚拟化开发和测试（申请
          季后才开始，只有少数学校用上了这段工业界实习）
    <br />
-  推荐信： 北师大计算机系主任 + 北京大学计算机研究所教授 + 美国UT Austin教授
+   <br />
+  推荐信： 
+   <br />
+  北师大计算机系主任 + 北京大学计算机研究所教授 + 美国UT Austin教授
 
 ### 申请结果
 
