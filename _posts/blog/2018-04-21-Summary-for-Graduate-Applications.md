@@ -39,7 +39,7 @@ Good morning，或是自食其力却差点烧掉厨房的难忘经历…… …�
 
 ### 申请结果
 
-    Ad：New York University(小奖)
+    Ad：New York University(带奖)
     
     WL: USC, NWU
   
@@ -47,10 +47,8 @@ Good morning，或是自食其力却差点烧掉厨房的难忘经历…… …�
          UT Austin, UCSD, GaTech, 
          Cornell, Columbia, Duke，
          UMich, U Wisconsin–Madison, UIUC
-    
-    另外:
-    
-    Ad: Red Hat - Full time Offer
+    另外：
+        Ad: Red Hat - Full time Offer
     
 
 ### 评价
