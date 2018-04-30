@@ -21,7 +21,7 @@ Good morning，或是自食其力却差点烧掉厨房的难忘经历…… …�
 
 ### 我的背景条件
 
-    学校：北京师范大学(985/211, QS8th in China)
+    学校：北京师范大学(985/211, QS8th in China, US News 12th in China)
          
          Major GPA 3.59
    
@@ -40,20 +40,17 @@ Good morning，或是自食其力却差点烧掉厨房的难忘经历…… …�
 ### 申请结果
 
     Ad：New York University(小奖)
+    
+    WL: USC, NWU
   
-    Rej：CMU-Software Engineering, CMU-INI, 
+    Rej：CMU-Software Engineering, CMU-INI,
+         UT Austin, UCSD, GaTech, 
+         Cornell, Columbia, Duke，
+         UMich, U Wisconsin–Madison, UIUC
     
-    UT Austin, UCSD, GaTech, 
-         
-    Cornell, Columbia, Duke，
-        
-    UMich, U Wisconsin–Madison, UIUC
-        
-    WL: USC, Northwestern
+    另外:
     
-    Plus:
-    
-    Ad: Red Hat - Full time Offer
+    Ad: Red Hat - Full time Offer
     
 
 ### 评价
