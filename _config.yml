@@ -68,11 +68,6 @@ gems:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
-
 repository: lvxiaoxin/lvxiaoxin.github.io
 
 # ---------------- #
