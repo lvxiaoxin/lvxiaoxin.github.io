@@ -60,5 +60,5 @@ keywords: Docker Dockerfile Container
 ## 参考链接
 
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/image/dockerfile/user.html)
-* [Create a User in Dockerfile]\(https://gist.github.com/alkrauss48/2dd9f9d84ed6ebff9240ccfa49a80662)
+* [Create a User in Dockerfile](https://gist.github.com/alkrauss48/2dd9f9d84ed6ebff9240ccfa49a80662)
 
