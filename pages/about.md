@@ -8,7 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-I'm Xin Lyu, a student majoring in Computer Science at Beijing Normal University.
+I'm Xin Lyu, now a Python Engineer at Wecash.
+
+I majored in Computer Science and graduated from Beijing Normal University.
 
 I admire all miracles made by science.
 
