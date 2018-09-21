@@ -5,13 +5,11 @@
       - SQL
       - Shell
       - Machine Learning
+      - Docker / Kubernetes
 
 - name: Web Developer Keywords
   keywords:
       - HTML/CSS/JavaScript
-      - PHP/Python
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Swift
-      - Java
+      - Python
+      - Flask/Django
+      - Mysql/MongoDB
