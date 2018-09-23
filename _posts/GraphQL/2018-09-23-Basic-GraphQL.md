@@ -1,3 +1,11 @@
+---
+layout: post
+title: 浅谈GraphQL
+categories: GraphQL
+description: GraphQL基础见闻
+keywords: GraphQL REST 
+---
+
 # 浅谈GraphQL
 
 最近在用`GitHub`的API写一个小工具，发现`GitHub`和`GitLab`最新版的API全部迁移向了GraphQL的实现模式。因为以前没有接触过这个概念（好吧，这应该是我这个刚毕业的小萌新孤陋寡闻了），所以想着写个demo了解一下。
