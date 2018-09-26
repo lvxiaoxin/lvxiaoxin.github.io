@@ -1,8 +1,10 @@
+---
 layout: post
 title: Scope in Python
 categories: Python
 description: Python中作用域的那些事儿
 keywords: Python
+---
 
 #  Scope in Python
 
