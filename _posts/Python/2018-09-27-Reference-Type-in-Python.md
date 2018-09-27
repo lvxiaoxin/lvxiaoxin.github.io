@@ -33,7 +33,7 @@ Object是Python关于数据的抽象描述，在Python中，一切都是对象�
 
 在计算机编程语言中，不可避免的一个话题是变量。依据变量传递时候的不同表现，即 **传值** 和 **传引用**，可以将变量分为两大类：**Value Type** 和 **Reference Type**。
 
-根据Wikimedia，可将一些语言中的数据类型根据这两种表现进行分类：
+根据Wikipedia，可将一些语言中的数据类型根据这两种表现进行分类：
 
 ![language classify by var-type](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1537979872/For%20Blog/language-classify-by-var-type.png)
 
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
 所以，当函数退出时，x随着生命周期结束而消失，但是这个保存Value的蓝色方块仍然存在，而我们的`d`，仍然指向这个方块。在整个过程中，蓝色方块始终没有变，`d`的指向也始终没有变，所以第一个函数结束后，`d`仍然保持不变。
 
-第二个函数`re_copy(x)`中，在`y = x`这一部操作，就**体现了动态类型语言和静态类型语言的不同**。这一部操作如果发生在C Family Language中，那么效果应该是这样的：
+第二个函数`re_copy(x)`中，在`y = x`这一部操作，就**体现了动态类型语言和静态类型语言的不同**。这一步操作如果发生在C Family Language中，那么效果应该是这样的：
 
 ![static](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1538063488/ref_3.png)
 
