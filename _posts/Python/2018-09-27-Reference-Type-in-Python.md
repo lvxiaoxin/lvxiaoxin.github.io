@@ -1,8 +1,10 @@
+---
 layout: post
 title: 从动态类型语言，到Python的Objective Reference
 categories: Python
 description: 前几天看到一篇讨论编程范式，写变量传递的文章，发现自己对Python的相关机制理解还不够深入，就查阅了一些资料，做了一些实验，请教了一下同事。最近老婆大人也在学习Python，这里做下记录，仅供总结和学习~
 keywords: Python Objective-Reference Reference
+---
 
 # 从动态类型语言，到Python的Objective Reference
 
