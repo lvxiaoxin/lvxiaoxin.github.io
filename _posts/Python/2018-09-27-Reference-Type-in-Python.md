@@ -163,7 +163,7 @@ Python并没有新创建一个变量y，而是给x所指向的Value，新增加�
 
 那如果我要复制一个较为复杂的object，它不像list、dict这样的内建数据类型一样有dict方法给我用怎么办？Python提供了一个内建模块`copy`，尝试使用`from copy import deepcopy`，你就会达到目的。
 
-很多讨论深浅层复制的文章，在最开始都会说，深浅层复制在对于基本简单的，比如int这种数据类型时候没有差别。其实，不是没有差别，而是因为我们使用这种简单的数据时候都是直接使用类似于`y = x`这样的操作，而没有去修改这些Reference对应的内存空间中的Value。
+很多讨论深浅层复制的文章，在最开始都会说，深浅层复制在对于基本简单的，比如int这种数据类型时候没有差别。其实，不是没有差别， 而是在Python中，对象分为mutable和immutable。在最开始，我们谈到的Value可变部分，在Python中，Value可变的object，称为mutable，不可变得称为immutable。对于immutable的对象，我们是无法改变其内存空间内的Value的，只能通过把这个Reference指向别的内存空间。表现起来，就好像该对象的Value变了一样。
 
 所以，**Objective Reference**才是根本原因。
 
