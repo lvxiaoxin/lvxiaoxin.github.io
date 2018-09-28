@@ -87,7 +87,7 @@ if __name__ == '__main__':
 
 是不是觉得很神奇，为什么第一个函数内的行为，没有影响到外面的**d**，但是第二个函数的行为，却影响到了。这是因为Python在参数传递时，采用了一种Objective Reference的形式。
 
-在Python中，传入函数的变量，其实是一个对象引用。我们用三角代表引用(reference)，方块代表值(value)。在`re_dict(x)`这个函数中，其实传递进去的x，就是这里的三角，它指向一个方块，方块中的Value是`{'data': {'name': 'lvxiaoxin', 'company': 'wecash'}}`，如下图所示：
+在Python中，传入函数的变量，其实是一个对象引用。我们用圆圈代表引用(reference)，方块代表值(value)。在`re_dict(x)`这个函数中，其实传递进去的x，就是这里的圆圈，它指向一个方块，方块中的Value是`{'data': {'name': 'lvxiaoxin', 'company': 'wecash'}}`，如下图所示：
 
 ![ref_1](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1538062782/ref_1.png)
 
