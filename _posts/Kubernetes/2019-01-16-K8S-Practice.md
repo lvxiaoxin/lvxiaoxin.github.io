@@ -24,7 +24,7 @@ keywords: Docker Dockerfile Kubernetes
 
 ## 构建Docker镜像
 
-###Docker环境准备
+### Docker环境准备
 
 Docker for Mac - Daemon
 
@@ -38,7 +38,7 @@ docker login [xxxx(host)]
 
 
 
-###构建Docker镜像
+### 构建Docker镜像
 
 **开发Dockerfile**
 
@@ -209,7 +209,7 @@ kubectl create secret docker-registry regsecret --docker-server=xxx.xxx --docker
 
 
 
-###Create a Deployment
+### Create a Deployment
 
 **部署一个镜像服务**
 
