@@ -18,13 +18,14 @@ lvxiaoxin
 
 在风控模型搞研发(Wecash Inc.)
 
+>
 > I admire all miracles made by science.
+>
 
-<br />
-
+## Resume
 You can find my CV here.
 
-[CV](https://lvxiaoxin.github.io/CV.pdf)
+[==> CV](https://lvxiaoxin.github.io/CV.pdf)
 
 
 ## Contact
