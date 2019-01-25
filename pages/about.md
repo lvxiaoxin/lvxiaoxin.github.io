@@ -8,16 +8,21 @@ menu: 关于
 permalink: /about/
 ---
 
-I'm Xin Lyu, now a Python Engineer at Wecash.
+## Me
 
-I majored in Computer Science and graduated from Beijing Normal University.
+lvxiaoxin
 
-I admire all miracles made by science.
+一只在刚刚踏上技术大陆的萌新宝宝
 
-I look forward to using my hands and technology to change the world.
+从积水潭女子师专（北京师范大学）初出茅庐
+
+在风控模型搞研发(Wecash Inc.)
+
+> I admire all miracles made by science.
+
+<br />
 
 You can find my CV here.
-
 
 [CV](https://lvxiaoxin.github.io/CV.pdf)
 
