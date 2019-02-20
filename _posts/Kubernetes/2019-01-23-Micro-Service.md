@@ -4,7 +4,6 @@ title: 宝宝架构路(一)
 categories: Infrastructure
 description: 在微服务过程中，对于分布式全链路追踪、服务注册和发现的一点感悟。
 keywords: Infrastructure Microservice
-
 ---
 
 # 宝宝架构路(一)
