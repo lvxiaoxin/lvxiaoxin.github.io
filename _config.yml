@@ -54,11 +54,10 @@ markdown: kramdown
 kramdown:
     input: GFM
 highlighter: rouge
-paginate: 8
+paginate: 100
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
 gems:
     - jekyll-github-metadata
     - rouge
