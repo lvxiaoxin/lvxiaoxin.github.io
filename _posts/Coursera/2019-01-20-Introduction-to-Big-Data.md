@@ -1,13 +1,13 @@
 ---
 layout: post
-title: [Coursera] - Introduction to Big Data
+title: Coursera - Introduction to Big Data
 categories: Coursera BigData
 description: 最近在Coursera上完成了一门课的学习，在此对此课做一些记录。
 keywords: Coursera BigData
 
 ---
 
-## [Coursera] - Introduction to Big Data
+# [Coursera] - Introduction to Big Data
 
 ## 关于这门课
 
