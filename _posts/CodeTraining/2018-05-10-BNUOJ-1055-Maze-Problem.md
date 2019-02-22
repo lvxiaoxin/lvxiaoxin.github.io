@@ -20,7 +20,6 @@ keywords: LeetCode Job 刷题
 	迷宫使用一个N*M的矩阵来描述,矩阵中用'.'代表空格可以通行,
 	用'*'代表障碍物,用'S'代表出发点,用'T'代表出口.例如下面的一个矩阵就描述了一个8*8的迷宫
 
-
 	.....T..
 	..*****.
 	......*.
@@ -97,7 +96,8 @@ bool vis[101][101];
 int dp[101][101];
 
 
-void dpsearch(int p, int q) {
+void dpsearch(int p, int q)
+{
 
     if(p>x || q<y || str[p][q]=='*') return;
     if(!vis[p][q])
@@ -112,7 +112,8 @@ void dpsearch(int p, int q) {
     }
 }
 
-int main() {
+int main()
+{
     while(scanf("%d%d", &N, &M)!=EOF)
     {
         memset(str, '\0', sizeof(str));
@@ -167,13 +168,16 @@ int dir[][2] = {{-1,0}, {0, 1}};
 char str[101][101];
 bool vis[101][101];
 
-bool easyGo(int x, int y) {
+
+bool easyGo(int x, int y)
+{
     if(x>=0 && y>=0 && x<N && y<M && str[x][y]!='*' && !vis[x][y])
         return true;
     else return false;
 }
 
-void dfs(int x, int y) {
+void dfs(int x, int y)
+{
     if(str[x][y]=='T')
     {
         num++;
@@ -196,7 +200,8 @@ void dfs(int x, int y) {
     return;
 }
 
-int main() {
+int main()
+{
     while(scanf("%d%d", &N, &M)!=EOF)
     {
         num = 0;
