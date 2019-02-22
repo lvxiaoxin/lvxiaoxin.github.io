@@ -80,7 +80,7 @@ keywords: LeetCode Job 刷题
 
     这两种算法时间界相近，第二种系数更小些。）
 
-```
+```cpp
 /**
  *name: Maze_2
  *p_ID: bnuoj 1055
@@ -97,8 +97,7 @@ bool vis[101][101];
 int dp[101][101];
 
 
-void dpsearch(int p, int q)
-{
+void dpsearch(int p, int q) {
 
     if(p>x || q<y || str[p][q]=='*') return;
     if(!vis[p][q])
@@ -113,8 +112,7 @@ void dpsearch(int p, int q)
     }
 }
 
-int main()
-{
+int main() {
     while(scanf("%d%d", &N, &M)!=EOF)
     {
         memset(str, '\0', sizeof(str));
@@ -153,7 +151,7 @@ int main()
 把原来的dfs也附上，方便反省。。。
 
 
-```
+```cpp
 /**
  *name: Maze_2
  *p_ID: bnuoj 1055
@@ -169,16 +167,13 @@ int dir[][2] = {{-1,0}, {0, 1}};
 char str[101][101];
 bool vis[101][101];
 
-
-bool easyGo(int x, int y)
-{
+bool easyGo(int x, int y) {
     if(x>=0 && y>=0 && x<N && y<M && str[x][y]!='*' && !vis[x][y])
         return true;
     else return false;
 }
 
-void dfs(int x, int y)
-{
+void dfs(int x, int y) {
     if(str[x][y]=='T')
     {
         num++;
@@ -201,8 +196,7 @@ void dfs(int x, int y)
     return;
 }
 
-int main()
-{
+int main() {
     while(scanf("%d%d", &N, &M)!=EOF)
     {
         num = 0;
