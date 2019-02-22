@@ -19,7 +19,7 @@ keywords: LeetCode Job 刷题
 	
 	迷宫使用一个N*M的矩阵来描述,矩阵中用'.'代表空格可以通行,
 	用'*'代表障碍物,用'S'代表出发点,用'T'代表出口.例如下面的一个矩阵就描述了一个8*8的迷宫
-
+	
 	.....T..
 	..*****.
 	......*.
@@ -50,7 +50,7 @@ keywords: LeetCode Job 刷题
 	
 	Sample Output
 	1
-	
+
 ## 问题分析
 看到这个题我的第一反应是用dfs,从起点开始，一次检索两个方向上的可能性，
 如果符合题意，则继续深入递归，直至到达终点，让count++并返回，
@@ -79,159 +79,12 @@ keywords: LeetCode Job 刷题
 
     这两种算法时间界相近，第二种系数更小些。）
 
-```cpp
-/**
- *name: Maze_2
- *p_ID: bnuoj 1055
- */
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <iostream>
-using namespace std;
-
-int N, M, x, y, xx, yy;
-char str[101][101];
-bool vis[101][101];
-int dp[101][101];
-
-
-void dpsearch(int p, int q)
-{
-
-    if(p>x || q<y || str[p][q]=='*') return;
-    if(!vis[p][q])
-    {
-        vis[p][q] = true;
-        dpsearch(p+1, q);
-        dpsearch(p, q-1);
-        if(p<N)
-            dp[p][q] += dp[p+1][q]%1908;
-        if(q>0)
-            dp[p][q] += dp[p][q-1]%1908;
-    }
-}
-
-int main()
-{
-    while(scanf("%d%d", &N, &M)!=EOF)
-    {
-        memset(str, '\0', sizeof(str));
-        memset(vis, false, sizeof(vis));
-        memset(dp, 0, sizeof(dp));
-        int i=0;
-        for(int i=0; i<N; i++)
-            scanf("%s", str[i]);
-        for(int i=0; i<N; i++)
-        {
-            for(int j=0; j<M; j++)
-            {
-                if(str[i][j]=='S')
-                {
-                    x = i;
-                    y = j;
-                }
-                if(str[i][j]=='T')
-                {
-                    xx = i;
-                    yy = j;
-                }
-            }
-        }
-
-        dp[x][y] = 1;
-        dpsearch(xx, yy);
-        printf("%d\n", dp[xx][yy]%1908);
-    }
-
-    return 0;
-}
-```
+![](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1550852764/carbon_3.png)
 
 
 把原来的dfs也附上，方便反省。。。
 
-
-```cpp
-/**
- *name: Maze_2
- *p_ID: bnuoj 1055
- */
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <iostream>
-using namespace std;
-
-int N, M, x, y, num = 0;
-int dir[][2] = {{-1,0}, {0, 1}};
-char str[101][101];
-bool vis[101][101];
-
-
-bool easyGo(int x, int y)
-{
-    if(x>=0 && y>=0 && x<N && y<M && str[x][y]!='*' && !vis[x][y])
-        return true;
-    else return false;
-}
-
-void dfs(int x, int y)
-{
-    if(str[x][y]=='T')
-    {
-        num++;
-        num %= 1908;
-        return;
-    }
-
-    if(easyGo(x-1, y))
-    {
-        vis[x-1][y] = true;
-        dfs(x-1, y);
-        vis[x-1][y] = false;
-    }
-    if(easyGo(x, y+1))
-    {
-        vis[x][y+1] = true;
-        dfs(x, y+1);
-        vis[x][y+1] = false;
-    }
-    return;
-}
-
-int main()
-{
-    while(scanf("%d%d", &N, &M)!=EOF)
-    {
-        num = 0;
-        memset(str, '\0', sizeof(str));
-        memset(vis, false, sizeof(vis));
-        int i=0;
-        for(int i=0; i<N; i++)
-            scanf("%s", str[i]);
-        int flag = 1;
-        for(int i=0; i<N; i++)
-        {
-            for(int j=0; j<M; j++)
-            {
-                if(str[i][j]=='S')
-                {
-                    x = i;
-                    y = j;
-                    vis[i][j] = true;
-                    flag = 0;
-                    break;
-                }
-            }
-            if(flag==0)
-                break;
-        }
-        dfs(x, y);
-        printf("%d\n", num);
-    }
-}
-```
+![](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1550852772/carbon_4.png)
 
 
 ​	
