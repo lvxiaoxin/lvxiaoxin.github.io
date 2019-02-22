@@ -24,13 +24,13 @@ keywords: 留学 工作 申请
    学校：
    <br />
    北京师范大学(985/211, QS8th in China, US News 12th in China)
-         Major GPA 3.6（北大算法）
+​         Major GPA 3.6（北大算法）
    <br />
    <br />
    标化：
    <br />
    TOEFL 101（R 27, L 26, S 22, W 26) |
-        GRE 149(V) + 169(Q) + 3(AW)     
+​        GRE 149(V) + 169(Q) + 3(AW)     
    <br />
    <br />
    科研：
@@ -43,7 +43,7 @@ keywords: 留学 工作 申请
    实习：
    <br />
    Red Hat（全球最大开源技术公司，Red Hat Enterprise Linux/OpenStack等开发商），做Linux虚拟化开发和测试（申请
-         季后才开始，只有少数学校用上了这段工业界实习）
+​         季后才开始，只有少数学校用上了这段工业界实习）
    <br />
    <br />
   推荐信： 
@@ -54,26 +54,26 @@ keywords: 留学 工作 申请
 
   Ad：New York University(带奖)
    <br />
-   WL: USC, NWU
+   WL: Cornell-Tech, USC, NWU
    <br />
    Rej：CMU-Software Engineering, CMU-INI,
-         UT Austin, UCSD, GaTech, 
-         Cornell, Columbia, Duke，
-         UMich, U Wisconsin–Madison, UIUC 
+​         UT Austin, UCSD, GaTech, 
+​         Cornell, Columbia, Duke，
+​         UMich, U Wisconsin–Madison, UIUC 
    <br />
    另外：
    <br />
   Ad: Red Hat - Full time Offer
-    
+​    
 
 ### 评价
-    
+
   惨。
 
 ### 审视
 
  回想申请过程，其实有很多误区是由于当时的局限性所无法避免的走入的，记录下来作为自己的成长，和对后人的提示。
-  
+
   **1.不要过分看重暑研**
   <br />
   <br />
@@ -134,7 +134,7 @@ keywords: 留学 工作 申请
 <br />
 
 ## 感谢
-  
+
    在这里向在我申请过程中给予莫大支持和帮助的父母，导师，芳姐，杰哥，和过小姐，表示感谢。谢谢你们，由衷！
 
 ## 参考链接
