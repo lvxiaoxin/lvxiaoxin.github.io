@@ -566,11 +566,7 @@ module.exports.connections = {
 
 
 
-![9.png](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1551181230/image2019-2-26_17-7-9.png)
-
-可以发现每次响应的服务端不一定一样，负载均衡。
-
-
+![9.png](https://res.cloudinary.com/lvxiaoxin96/image/upload/v1551181230/image2019-2-26_17-7-9.png)可以发现每次响应的服务端不一定一样，负载均衡。
 
 **Kong + Consul 方案涉及系统架构**
 
@@ -583,6 +579,8 @@ module.exports.connections = {
 3. **业务服务修改**
    - 无需修改业务代码，若有健康检查需求，可只是简单增加 /health GET接口即可。
    - 为每个服务撰写服务注册配置文件，每台机器需要部署Consul Client
+
+
 
 
 
@@ -804,7 +802,7 @@ Kong比较灵活，后续有非常丰富的插件，就路由转发，这个点�
 
 ## 参考链接
 
-- [网易云微服务设计理念<sup>[0]</sup>](https://www.163yun.com/product-nsf?tag=M_zhihu_65502802_jd)
+- [网易云微服务设计理念](https://www.163yun.com/product-nsf?tag=M_zhihu_65502802_jd)
 - [Consul Official Doc](https://www.consul.io/docs/install/index.html)
 - [Why Do we need the API Gateway](http://ju.outofmemory.cn/entry/324673)
 - [选择Kong作为你的API网关](https://www.cnkirito.moe/kong-introduction/)
