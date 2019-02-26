@@ -6,7 +6,7 @@ description: 在微服务过程中，对于分布式全链路追踪、服务注�
 keywords: Infrastructure Microservice
 ---
 
-# 宝宝架构路(一)
+# 宝宝架构路(一)——分布式链路追踪与服务注册发现调研
 
 ## 背景
 
