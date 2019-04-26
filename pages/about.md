@@ -16,8 +16,6 @@ lvxiaoxin
 
 从积水潭女子师专（北京师范大学）初出茅庐
 
-在风控模型搞研发(Wecash Inc.)
-
 >
 > I admire all miracles made by science.
 >
