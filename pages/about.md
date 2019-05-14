@@ -28,8 +28,9 @@ lvxiaoxin
 | ----------------- | --------- | ------------------------------------- |
 | 2019.05 - Now     | Microsoft | SDE (Office 365)                      |
 | 2018.07 - 2019.04 | Wecash    | Python Engineer (Modeling Department) |
+| 2018.03 - 2018.06 | Red Hat   | Software Engineer Intern              |
 
-教育经历
+**教育经历**
 
 | 时间              | 学校         | 学位                  |
 | ----------------- | ------------ | --------------------- |
