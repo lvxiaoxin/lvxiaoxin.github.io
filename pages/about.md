@@ -21,9 +21,15 @@ lvxiaoxin
 >
 
 ## Resume
-You can find my CV here.
 
-[==> CV](https://lvxiaoxin.github.io/CV.pdf)
+工作经历
+
+| 时间               | 公司      | 职位                                  |
+| ------------------ | --------- | ------------------------------------- |
+| 2019.05 —— ~       | Microsoft | SDE (Office 365)                      |
+| 2018.07 —— 2019.04 | Wecash    | Python Engineer (Modeling Department) |
+
+
 
 
 ## Contact
