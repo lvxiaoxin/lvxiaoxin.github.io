@@ -139,4 +139,4 @@ keywords: 留学 工作 申请
 
 ## 参考链接
 
-* [申请时所用的个人简历，仅供参考](https://lvxiaoxin.github.io/CV.pdf)
+* [申请时所用的个人简历，仅供参考]()(因隐私原因撤出，参考About界面)
