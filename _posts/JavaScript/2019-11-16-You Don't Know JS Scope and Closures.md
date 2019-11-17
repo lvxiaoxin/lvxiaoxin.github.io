@@ -53,38 +53,38 @@ No matter how we transport an inner function outside of its lexical scope, it wi
 
    bad
 
-   ![](./00.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/00.png)
 
    good
 
-   ![](./01.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/01.png)
 
 2. **Hoisting logic & function expressions /
    declarations**
 
-   ![](./10.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/10.png)
 
 3. **Closures & Scope**
 
-   ![](./20.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/20.png)
 
    This is just because every 5 new functions declared here actually shared the lexical scope ==> **The loop here has no difference with defining them one by one.** So only one i here.
 
    To make it print 1, 2, 3, 4, 5 with 1 second interval, we need to make them have separate lexical scope, by the following way,
 
-   ![](./21.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/21.png)
 
    Which create a new scope by IIFE pattern, and then pollute this new scope with ***j***.
 
 Or
 
-![](./22.png)
+![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/22.png)
 
 ​	Which the ***let*** here make the ***k*** in each iteration turns into a new scope that can let the closure to close over.
 
 ==> this can actually just by 
 
-![](./23.png)
+![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/23.png)
 
 Cool! -> this is because now ***i*** is a block-based scope variable, which means the for-loop will separate each iteration's scope.
 
@@ -93,12 +93,12 @@ Cool! -> this is because now ***i*** is a block-based scope variable, which mean
 4. **Modules & IIFE & Closures --> making a
    singleton**
 
-![](./30.png)
+![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/30.png)
 
 5. **Lexical this**
 
-   ![](./40.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/40.png)
 
-   ![](./41.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/41.png)
 
-   ![](./42.png)
+   ![](https://raw.githubusercontent.com/lvxiaoxin/lvxiaoxin.github.io/master/_posts/JavaScript/pic/ydkjs1/42.png)
