@@ -3,7 +3,7 @@ layout: post
 title: Reading Note: You don't know JS - Scope & Closure
 categories: TS/JS
 description: 读 You don't know JS - Series 1 的一些记录。
-keywords: Python
+keywords: JavaScript Language
 ---
 
 #  Scope & Closure
