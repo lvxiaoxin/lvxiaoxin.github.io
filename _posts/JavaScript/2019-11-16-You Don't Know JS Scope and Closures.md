@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Reading Note: You don't know JS - Scope & Closure
-categories: TS/JS
+categories: JavaScript
 description: 读 You don't know JS - Series 1 的一些记录。
 keywords: JavaScript Language
 ---
 
 #  Scope & Closure
+
+## **Key Notes**
 
 1. Compiler, Scope, Engine
 2. LHS / RHS
