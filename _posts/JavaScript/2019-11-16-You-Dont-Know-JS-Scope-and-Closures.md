@@ -2,7 +2,7 @@
 layout: post
 title: Reading Note on You don't know JS - Scope & Closure
 categories: JavaScript
-description: 读 You don't know JS - Series 1 的一些记录。
+description: 读 You don't know JS 的一些记录。
 keywords: JavaScript Language
 ---
 
