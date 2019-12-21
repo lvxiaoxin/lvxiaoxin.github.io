@@ -7,6 +7,8 @@ keywords: Book
 ---
 ## Reading List
 
+> 这些是我在2019年读完的课外书，做一下记录。 
+
 1. 《月亮与六便士》
 2.  The Ships Like Clouds, Risen by Their Rain
 3. 《打野》
